@@ -4,7 +4,7 @@ Project Proposal: Food Store
 
 Students names: K.Nurken, K.Adal, K.Eldos
 Group: CS-2303
-Group name: Qwerty
+Group name: The Team K
 Topic: Food Store
 Introduction and Relevance
 
